@@ -20,3 +20,5 @@ nível (iniciante, intermediário, avançado)
 É praticamente impossível seguir uma numeração, então deixem um nome fácil de entender (o mesmo para .md e .py) que eu organizo depois.
 
 Obrigadinha 💙
+
+PS: não é muito legal pegar exercício pronto de algum lugar, mas se pegar, deixa referenciado ;)
