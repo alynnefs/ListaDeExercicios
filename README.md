@@ -10,7 +10,7 @@ A preferência é que as soluções sejam em python, já que a ideia é utilizá
 
 ## Estrutura do repositório
 ```
-nível
+nível (iniciante, intermediário, avançado)
    exercicios
        arquivo1.md (vamo deixar minimamente bonitinho, né? :D)
    solucoes
